@@ -10,8 +10,6 @@ import ExperienceForm from './assets/Components/ExperienceForm'
 import PersonalInfoForm from './assets/Components/PersonalInfoForm'
 
 function App() {
-     
-
       const [personalinfo , setpersonalinfo] = useState({
                                                           name :"",
                                                           email:"",
