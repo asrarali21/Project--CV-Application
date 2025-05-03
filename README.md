@@ -15,7 +15,6 @@ The **CV Maker Application** is a simple and intuitive web app that allows users
 ## Technologies Used:
 - **React**: For building the user interface and managing state.
 - **Local Storage**: For storing user data persistently in the browser.
-- **html2pdf.js**: For generating the downloadable PDF of the CV.
 - **CSS**: For styling the application and ensuring responsiveness.
 
 
