@@ -1,12 +1,21 @@
-# React + Vite
+# CV Maker Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+The **CV Maker Application** is a simple and intuitive web app that allows users to create CV(Curriculum Vitae). Users can input their personal information, educational background, and professional experience to generate a well-structured CV.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Key Features:
+- Input and update personal information (name, email, phone number).
+- Add and edit educational background (school name, title of study, year).
+- Add and edit professional experience (company name, job title, description).
+- Real-time CV preview as users input their data.
+- Save data to local storage and restore it when the page is reloaded.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used:
+- **React**: For building the user interface and managing state.
+- **Local Storage**: For storing user data persistently in the browser.
+- **html2pdf.js**: For generating the downloadable PDF of the CV.
+- **CSS**: For styling the application and ensuring responsiveness.
+
+
