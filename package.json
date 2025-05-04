@@ -2,7 +2,7 @@
   "name": "project-cv-application",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://asrarali.github.io/Project--CV-Application ",
+  "homepage": "https://asrarali21.github.io/Project--CV-Application ",
   "type": "module",
   "scripts": {
     "dev": "vite",
