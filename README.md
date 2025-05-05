@@ -11,6 +11,8 @@ The **CV Maker Application** is a simple and intuitive web app that allows users
 - Real-time CV preview as users input their data.
 - Save data to local storage and restore it when the page is reloaded.
 
+## Demo Link:
+You can try out the application live [here](https://comfy-fairy-217f36.netlify.app/).
 
 ## Technologies Used:
 - **React**: For building the user interface and managing state.
